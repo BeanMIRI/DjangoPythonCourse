@@ -1,0 +1,12 @@
+body {
+    background: gray;
+    background: url(https://imgs.search.brave.com/5P0dpHz-NUIrvb4SlMqanJ78rx1q8m5K8prTeubVkWA/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9r/NjBBbFdzZU9KUS9t/YXhyZXNkZWZhdWx0/LmpwZw)
+    
+}
+
+div {
+    background: red;
+    border-color: blue;
+    border-width:10px
+    border-style: dotted
+}
