@@ -7,6 +7,7 @@ body {
 div {
     background: red;
     border-color: blue;
-    border-width:10px
-    border-style: dotted
+    border: width 5px;
+    border-style: ridge;
 }
+span {background-color: lightgreen;}
