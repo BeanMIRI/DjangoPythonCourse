@@ -1,0 +1,12 @@
+@font-face {
+    font-family: amogusface;
+    src: url("AmongUs-Regular.ttf");
+}
+h1  {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    
+}
+#two{
+    font-family: amogusface;
+}

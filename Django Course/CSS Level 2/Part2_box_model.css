@@ -1,0 +1,12 @@
+#top {
+    border: blue 4px dashed;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+}
+#bottom {
+    border: green 4px dashed;
+    width: 30%;
+    text-align: center;
+    padding: 200px;
+}
